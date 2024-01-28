@@ -1,0 +1,12 @@
+#Pedidos- P;Hora;Bebida,Bebida,Bebida
+P;2021-02-26T12:41:05;Tropical Ambrosia
+P;2021-02-26T12:44:23;Red Mist,Snoozing Rabbit
+P;2021-02-26T12:45:46;Spotty Smoothy,Mango Fix
+P;2021-02-26T12:52:37;Snoozing Rabbit,Tropical Ambrosia,Mango Fix
+#Pagamentos: R;Pedido
+R;1
+R;4
+R;7
+R;8
+R;5
+R;2
